@@ -182,7 +182,6 @@ public class ISOUtil {
 		 * Decodes an Alpha identifier or Text string as in EF_ADN (UCS2 coding
 		 * definition in Annex A from TS 102.221 (case 1)
 		 * 
-		 * @param dcs
 		 * @param text
 		 * @return
 		 * @throws IOException
