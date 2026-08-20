@@ -538,6 +538,8 @@ public class BytecodeUtil {
 			} else if (msisdn.matches("00\\d+")) {
 				msisdn = msisdn.replace("00", "");
 				tonnpi = (byte)0x91;
+			} else if (msisdn.length()>8) {
+				tonnpi = (byte)0x91;
 			}
 			return tonnpi;
 	}
