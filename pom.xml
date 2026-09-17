@@ -4,7 +4,7 @@
    <groupId>com.mobiera.libs</groupId>
    <artifactId>common-sim</artifactId>
    <packaging>jar</packaging>
-   <version>1.0.22</version>
+   <version>1.0.23</version>
    <name>Common Sim</name>
    <description>Common Sim</description>
    <url>https://github.com/mobiera/common-sim</url>
